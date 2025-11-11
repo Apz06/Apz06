@@ -2,7 +2,7 @@
 
 👀 I’m interested in studying books and articles, with a particular focus on the field of Artificial Intelligence and Machine Learning.
 
-🌱 I’m currently a second-year B.Tech student pursuing AI and ML in Chennai, Tamil Nadu, India.
+🌱 I’m currently a Final-year B.Tech student pursuing AI and ML in Chennai, Tamil Nadu, India.
 
 💼 I'm working towards my goal of becoming an entrepreneur in the future.
 
